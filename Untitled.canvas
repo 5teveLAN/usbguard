@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"dc08a20b305e708e","type":"text","text":"USBGUARD","x":-240,"y":-240,"width":250,"height":60},
+		{"id":"dd5195d75e66a6ab","type":"text","text":"保護措施","x":-300,"y":-160,"width":250,"height":60},
+		{"id":"82bceb84fe2c80d5","type":"text","text":"1. CLI介面 杜絕所有快捷鍵","x":-300,"y":-60,"width":250,"height":60},
+		{"id":"341c09b9a7b7f65f","type":"text","text":"攻擊測試","x":10,"y":-160,"width":250,"height":60},
+		{"id":"a02b5b8944a2d353","type":"text","text":"1. HID injection\n\t1. 一接上就輸入一堆指令\n\t2. 5秒後才輸入一堆指令","x":10,"y":-51,"width":250,"height":181},
+		{"id":"4b55ea073c07a53a","type":"text","text":"2. python主程式\n\t1. 偵測輸入速度\n\t2. 若過快，停止發送，並捕捉內容分析\n\t3. 丟到網站上(AI設計)\n\t4. OLED","x":-300,"y":130,"width":250,"height":180},
+		{"id":"f87d537674821e51","type":"text","text":"[blackhat 2014](https://www.youtube.com/watch?v=nuruzFqMgIw)","x":-940,"y":-103,"width":140,"height":60},
+		{"id":"17158b67a10888b3","type":"text","text":"HID injection\nTrust","x":-940,"y":-13,"width":127,"height":60},
+		{"id":"d354619a64e3e3db","type":"text","text":"3. 白名單: 可儲存當前裝置資訊","x":-300,"y":340,"width":250,"height":60},
+		{"id":"cdf690bfb179d07f","type":"text","text":"[BadUSB介紹](https://en.wikipedia.org/wiki/BadUSB)","x":-870,"y":-190,"width":250,"height":60},
+		{"id":"658a533cae652825","type":"text","text":"想法","x":-596,"y":-160,"width":250,"height":60},
+		{"id":"1b989a0915b985c9","type":"text","text":"轉接器","x":-596,"y":-38,"width":250,"height":50},
+		{"id":"1e97a50f94fd34ff","type":"text","text":"串接模式","x":-596,"y":47,"width":250,"height":50},
+		{"id":"7a52e9108613ff7b","type":"text","text":"USB condom\n[USG](https://boingboing.net/2017/03/02/countermeasures.html)whitelist\nUSBGUARD github\n","x":-827,"y":160,"width":164,"height":60},
+		{"id":"f0f406b05166bca4","x":-1160,"y":155,"width":250,"height":60,"type":"text","text":"hak5\n- duckyscript"}
+	],
+	"edges":[
+		{"id":"d7390462b5270828","fromNode":"658a533cae652825","fromSide":"bottom","toNode":"1b989a0915b985c9","toSide":"top"},
+		{"id":"f95a8d696ca17895","fromNode":"1b989a0915b985c9","fromSide":"bottom","toNode":"1e97a50f94fd34ff","toSide":"top"}
+	]
+}
