@@ -13,8 +13,8 @@
 		{"id":"658a533cae652825","type":"text","text":"想法","x":-596,"y":-160,"width":250,"height":60},
 		{"id":"1b989a0915b985c9","type":"text","text":"轉接器","x":-596,"y":-38,"width":250,"height":50},
 		{"id":"1e97a50f94fd34ff","type":"text","text":"串接模式","x":-596,"y":47,"width":250,"height":50},
-		{"id":"7a52e9108613ff7b","type":"text","text":"USB condom\n[USG](https://boingboing.net/2017/03/02/countermeasures.html)whitelist\nUSBGUARD github\n","x":-827,"y":160,"width":164,"height":60},
-		{"id":"f0f406b05166bca4","x":-1160,"y":155,"width":250,"height":60,"type":"text","text":"hak5\n- duckyscript"}
+		{"id":"7a52e9108613ff7b","type":"text","text":"USB condom\n[USG](https://boingboing.net/2017/03/02/countermeasures.html)whitelist\nUSBGUARD github\n","x":-827,"y":72,"width":164,"height":148},
+		{"id":"f0f406b05166bca4","type":"text","text":"hak5\n- duckyscript","x":-1120,"y":72,"width":250,"height":105}
 	],
 	"edges":[
 		{"id":"d7390462b5270828","fromNode":"658a533cae652825","fromSide":"bottom","toNode":"1b989a0915b985c9","toSide":"top"},

@@ -25,14 +25,31 @@
             "id": "2da5c176cdd2d36c",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -803.9444488357422,
+                  "y": -7.306845900599711,
+                  "zoom": -0.19446889402677137
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "c2bb49cf977a5c9a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "auto start.md",
+                "file": "enable hid gadget.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "auto start"
+              "title": "enable hid gadget"
             }
           },
           {
@@ -64,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,22 +123,12 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
-          {
-            "id": "db0703b879f81625",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 218.49999618530273
   },
   "right": {
     "id": "a264ad35a035c7cf",
@@ -223,14 +230,33 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2da5c176cdd2d36c",
+  "active": "c2bb49cf977a5c9a",
   "lastOpenFiles": [
+    "Untitled 1.ppt",
+    "lu1792785stdg3.tmp",
+    "proxy.py~",
+    "findKeyboard.py",
+    "web_monitor.py",
+    "proxy.py",
+    "Drawing 2025-12-29 13.58.15.excalidraw.md",
+    "res/2. USBGuard.md",
     "enable hid gadget.md",
+    "res/USB Gadget Mode.md",
+    "res/1. BadUSB.md",
+    "download_2.jpg",
+    "download_1.jpg",
+    "images.jpg",
+    "download_0.jpg",
+    "download.jpg",
+    "Untitled.canvas",
     "oled.md",
-    "website flask.md",
-    "auto start.md"
+    "auto start.md",
+    "res/物聯網課程 期末專題計劃書.md",
+    "res/Untitled.canvas",
+    "website flask.md"
   ]
 }
